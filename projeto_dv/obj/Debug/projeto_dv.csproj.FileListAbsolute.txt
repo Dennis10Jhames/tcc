@@ -1,0 +1,511 @@
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\projeto_dv.dll.config
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\projeto_dv.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\projeto_dv.pdb
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\csc.exe
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\csc.exe.config
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\csc.rsp
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\csi.exe
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\csi.exe.config
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\csi.rsp
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.AppContext.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Console.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Net.Http.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Net.Sockets.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.ValueTuple.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\vbc.exe
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\vbc.exe.config
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\vbc.rsp
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\Antlr3.Runtime.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\Newtonsoft.Json.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.Helpers.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.Mvc.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.Optimization.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.Razor.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.WebPages.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\WebGrease.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.Helpers.xml
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.Mvc.xml
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.Optimization.xml
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.Razor.xml
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.WebPages.xml
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.xml
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\Newtonsoft.Json.xml
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\Antlr3.Runtime.pdb
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csprojAssemblyReference.cache
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csproj.CopyComplete
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\obj\Debug\projeto_dv.dll
+C:\Users\victor.santo\Documents\projeto_dv\projeto_dv\obj\Debug\projeto_dv.pdb
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\projeto_dv.dll.config
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\projeto_dv.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\projeto_dv.pdb
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csc.exe
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csc.exe.config
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csc.rsp
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csi.exe
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csi.exe.config
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csi.rsp
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.AppContext.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Collections.Immutable.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Console.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Globalization.Calendars.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Net.Http.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Net.Sockets.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Reflection.Metadata.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.ValueTuple.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\vbc.exe
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\vbc.exe.config
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\vbc.rsp
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe.config
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Antlr3.Runtime.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Microsoft.Web.Infrastructure.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Newtonsoft.Json.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Helpers.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Mvc.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Optimization.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Razor.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\WebGrease.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Helpers.xml
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Mvc.xml
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Optimization.xml
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Razor.xml
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.xml
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.xml
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.xml
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Newtonsoft.Json.xml
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Antlr3.Runtime.pdb
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Helpers.resources.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Mvc.resources.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Optimization.resources.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Razor.resources.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.resources.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csprojAssemblyReference.cache
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csproj.CopyComplete
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.dll
+E:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.pdb
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\projeto_dv.dll.config
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\projeto_dv.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\projeto_dv.pdb
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csc.exe
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csc.exe.config
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csc.rsp
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csi.exe
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csi.exe.config
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csi.rsp
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.AppContext.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Collections.Immutable.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Console.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Globalization.Calendars.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Net.Http.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Net.Sockets.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.ValueTuple.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\vbc.exe
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\vbc.exe.config
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\vbc.rsp
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe.config
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Antlr3.Runtime.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Microsoft.Web.Infrastructure.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Newtonsoft.Json.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Helpers.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Mvc.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Optimization.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Razor.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\WebGrease.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Helpers.xml
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Mvc.xml
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Optimization.xml
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Razor.xml
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.xml
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.xml
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.xml
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Newtonsoft.Json.xml
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Antlr3.Runtime.pdb
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Helpers.resources.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Mvc.resources.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Optimization.resources.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Razor.resources.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.resources.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csprojAssemblyReference.cache
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csproj.CoreCompileInputs.cache
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csproj.CopyComplete
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.dll
+D:\ESTUDO\ETEC SEGUNDO MODULO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.pdb
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csprojAssemblyReference.cache
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.pdb
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\projeto_dv.dll.config
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\projeto_dv.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\projeto_dv.pdb
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csc.exe
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csc.exe.config
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csc.rsp
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csi.exe
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csi.exe.config
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\csi.rsp
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.AppContext.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Console.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Net.Http.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Net.Sockets.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.ValueTuple.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\vbc.exe
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\vbc.exe.config
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\vbc.rsp
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\Antlr3.Runtime.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\Newtonsoft.Json.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Helpers.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Mvc.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Optimization.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Razor.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\WebGrease.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Helpers.xml
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Mvc.xml
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Optimization.xml
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.Razor.xml
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.xml
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.xml
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\Newtonsoft.Json.xml
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\Antlr3.Runtime.pdb
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\victor.santo\Desktop\ESTUDO\PTCC\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csproj.CopyComplete
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\projeto_dv.dll.config
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\projeto_dv.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\projeto_dv.pdb
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csc.exe
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csc.exe.config
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csc.rsp
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csi.exe
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csi.exe.config
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csi.rsp
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.AppContext.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Collections.Immutable.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Console.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Globalization.Calendars.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Net.Http.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Net.Sockets.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Reflection.Metadata.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.ValueTuple.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\vbc.exe
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\vbc.exe.config
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\vbc.rsp
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe.config
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Antlr3.Runtime.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Microsoft.Web.Infrastructure.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Newtonsoft.Json.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Helpers.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Mvc.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Optimization.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Razor.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\WebGrease.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Helpers.xml
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Mvc.xml
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Optimization.xml
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Razor.xml
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.xml
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.xml
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.xml
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Newtonsoft.Json.xml
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Antlr3.Runtime.pdb
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.Helpers.resources.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.Mvc.resources.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.Optimization.resources.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.Razor.resources.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.resources.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csprojAssemblyReference.cache
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csproj.CopyComplete
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\obj\Debug\projeto_dv.dll
+H:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\obj\Debug\projeto_dv.pdb
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\projeto_dv.dll.config
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\projeto_dv.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\projeto_dv.pdb
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csc.exe
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csc.exe.config
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csc.rsp
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csi.exe
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csi.exe.config
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\csi.rsp
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.AppContext.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Collections.Immutable.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Console.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Globalization.Calendars.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Net.Http.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Net.Sockets.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.ValueTuple.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\vbc.exe
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\vbc.exe.config
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\vbc.rsp
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\roslyn\VBCSCompiler.exe.config
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Antlr3.Runtime.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Microsoft.Web.Infrastructure.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Newtonsoft.Json.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Helpers.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Mvc.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Optimization.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Razor.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\WebGrease.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Helpers.xml
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Mvc.xml
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Optimization.xml
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.Razor.xml
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.xml
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.Deployment.xml
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\System.Web.WebPages.Razor.xml
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Newtonsoft.Json.xml
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Antlr3.Runtime.pdb
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.Razor.resources.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csprojAssemblyReference.cache
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\obj\Debug\projeto_dv.csproj.CopyComplete
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\obj\Debug\projeto_dv.dll
+D:\Dennis Etec\Tuuuudo\projeto_dv\projeto_dv\obj\Debug\projeto_dv.pdb
